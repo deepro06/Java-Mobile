@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println("____________________________________________________________________________________");
 
-        Mobile user3 = new Mobile("Remon", "01972345321", 2.25f,"Raspberry pi(Rainbow edition)", false);
+        Mobile user3 = new Mobile("Remon", "01972345321", 2.25f,"Raspberry pi", false);
 
         user3.showinfo();
 
